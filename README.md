@@ -8,9 +8,6 @@ We will update the survey content and this paper list regularly, and we very muc
   * [Abstract](#abstract)
   * [1. Knowledge Acquisition](#1-knowledge-acquisition)
     + [1.1 Learning from Text Data](#11-learning-from-text-data)
-
-      
-
     + [1.2 Learning from Structured Data](#12-learning-from-structured-data)
   * [2. Knowledge Representation](#2-knowledge-representation)
     + [2.1 Gradient-based](#21-gradient-based)
