@@ -207,7 +207,7 @@ Measuring Causal Effects of Data Statistics on Language Models' Factual Predicti
 
 Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.144)] ![](https://img.shields.io/badge/Limitation-Bias-red)
 
-Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts. (2022) [[paper](https://arxiv.org/abs/2209.12711)] ![](https://img.shields.io/badge/Limitation-Bias-red)
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.398)] ![](https://img.shields.io/badge/Limitation-Bias-red)
 
 ### 3.2 Feature-based Probing
 
