@@ -39,7 +39,7 @@ Recently, the extensive success of pre-trained language models (PLMs) has raised
 
 ### 1.1. Learning from Text Data
 
-Language models are unsupervised multitask learners. (OpenAI blog 2019) ![](https://img.shields.io/badge/Text-CLM-brightgreen)
+Language models are unsupervised multitask learners. (OpenAI blog 2019) [[paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)] ![](https://img.shields.io/badge/Text-CLM-brightgreen)
 
 Language Models are Few-Shot Learners. (NIPS 2020)  [[paper](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)] ![](https://img.shields.io/badge/Text-CLM-brightgreen)
 
