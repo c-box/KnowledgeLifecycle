@@ -41,7 +41,7 @@ Recently, the extensive success of pre-trained language models (PLMs) has raised
 
 ### 1.1. Learning from Text Data
 
-Language models are unsupervised multitask learners. (OpenAI blog 2019) ![](https://img.shields.io/badge/Text-CLM-brightgreen)
+Language models are unsupervised multitask learners. (OpenAI blog 2019) [[paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)] ![](https://img.shields.io/badge/Text-CLM-brightgreen)
 
 Language Models are Few-Shot Learners. (NIPS 2020)  [[paper](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)] ![](https://img.shields.io/badge/Text-CLM-brightgreen)
 
@@ -113,136 +113,136 @@ Align, mask and select: A simple method for incorporating commonsense knowledge 
 
 Knowledge-driven data construction for zero-shot evaluation in commonsense question answering. (AAAI 2021) ![](https://img.shields.io/badge/Structured-Commonsense-yellow)
 
-SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.567)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.567)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.374)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.374)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-Specializing Unsupervised Pretraining Models for Word-Level Semantic Similarity. (COLING 2020) [[paper](https://aclanthology.org/2020.coling-main.118)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+Specializing Unsupervised Pretraining Models for Word-Level Semantic Similarity. (COLING 2020) [[paper](https://aclanthology.org/2020.coling-main.118)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-SenseBERT: Driving Some Sense into BERT. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.423)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+SenseBERT: Driving Some Sense into BERT. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.423)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-Improving Semantic Matching through Dependency-Enhanced Pre-trained Model with Adaptive Fusion. (2022) [[paper](https://arxiv.org/abs/2210.08471)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+Improving Semantic Matching through Dependency-Enhanced Pre-trained Model with Adaptive Fusion. (2022) [[paper](https://arxiv.org/abs/2210.08471)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-Limit-bert: Linguistic informed multi-task bert. (2019) [[paper](https://arxiv.org/abs/1910.14296)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+Limit-bert: Linguistic informed multi-task bert. (2019) [[paper](https://arxiv.org/abs/1910.14296)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-Do Syntax Trees Help Pre-trained Transformers Extract Information?. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.228)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+Do Syntax Trees Help Pre-trained Transformers Extract Information?. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.228)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
-Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.262)] ![](https://img.shields.io/badge/Structured-linguistic-orange)
+Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.262)] ![](https://img.shields.io/badge/Structured-Linguistic-orange)
 
 ## 2. Knowledge Representation
 
 ### 2.1. Gradient-based
 
-Knowledge Neurons in Pretrained Transformers. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.581)]
+Knowledge Neurons in Pretrained Transformers. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.581)] ![](https://img.shields.io/badge/Representation-Gradient-green)
 
-Transformer Feed-Forward Layers Are Key-Value Memories. (EMNLP 2021) [[paper](https://aclanthology.org/2021.emnlp-main.446)]
+Transformer Feed-Forward Layers Are Key-Value Memories. (EMNLP 2021) [[paper](https://aclanthology.org/2021.emnlp-main.446)]  ![](https://img.shields.io/badge/Representation-Gradient-green)
 
 ### 2.2. Causal-inspired
 
-Locating and editing factual knowledge in gpt. (2022) [[paper](https://arxiv.org/abs/2202.05262)]
+Locating and editing factual knowledge in gpt. (2022) [[paper](https://arxiv.org/abs/2202.05262)] ![](https://img.shields.io/badge/Representation-Causal-yellow)
 
 ### 2.3. Attention-based
 
-What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)]
+What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)] ![](https://img.shields.io/badge/Representation-Attention-blue)
 
-Do Attention Heads in BERT Track Syntactic Dependencies?. (2019) [[paper](https://arxiv.org/abs/1911.12246)]
+Do Attention Heads in BERT Track Syntactic Dependencies?. (2019) [[paper](https://arxiv.org/abs/1911.12246)] ![](https://img.shields.io/badge/Representation-Attention-blue)
 
-Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)]
+Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)] ![](https://img.shields.io/badge/Representation-Attention-blue)
 
 ### 2.4. Layer-wise
 
-Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)]
+Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)] ![](https://img.shields.io/badge/Representation-Layer-yellowgreen)
 
-Linguistic Knowledge and Transferability of Contextual Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1112)]
+Linguistic Knowledge and Transferability of Contextual Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1112)] ![](https://img.shields.io/badge/Representation-Layer-yellowgreen)
 
-BERTnesia: Investigating the capture and forgetting of knowledge in BERT. (BlackboxNLP Workshop 2020) [[paper](https://aclanthology.org/2020.blackboxnlp-1.17)]
+BERTnesia: Investigating the capture and forgetting of knowledge in BERT. (BlackboxNLP Workshop 2020) [[paper](https://aclanthology.org/2020.blackboxnlp-1.17)] ![](https://img.shields.io/badge/Representation-Layer-yellowgreen)
 
-Finding patterns in Knowledge Attribution for Transformers. (2022) [[paper](https://arxiv.org/abs/2205.01366)]
+Finding patterns in Knowledge Attribution for Transformers. (2022) [[paper](https://arxiv.org/abs/2205.01366)] ![](https://img.shields.io/badge/Representation-Layer-yellowgreen)
 
 ## 3. Knowledge Probing
 
 ### 3.1 Prompt-based Probing
 
-Language Models as Knowledge Bases?. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1250)]
+Language Models as Knowledge Bases?. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1250)] ![](https://img.shields.io/badge/Benchmark-Factual-blue) ![](https://img.shields.io/badge/Prompt-Handcraft-orange)
 
-Evaluating Commonsense in Pre-Trained Language Models. (AAAI 2020) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6523)]
+Evaluating Commonsense in Pre-Trained Language Models. (AAAI 2020) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6523)] ![](https://img.shields.io/badge/Benchmark-Commonsense-yellow) ![](https://img.shields.io/badge/Prompt-Handcraft-orange)
 
-oLMpics-On What Language Model Pre-training Captures. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.48)]
+What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.3)] ![](https://img.shields.io/badge/Benchmark-Commonsense-yellow) ![](https://img.shields.io/badge/Prompt-Handcraft-orange)
 
-What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.3)]
+oLMpics-On What Language Model Pre-training Captures. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.48)] ![](https://img.shields.io/badge/Benchmark-Reasoning-yellowgreen) ![](https://img.shields.io/badge/Prompt-Handcraft-orange)
 
-Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. (2022) [[paper](https://arxiv.org/abs/2206.04615)]
+Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. (2022) [[paper](https://arxiv.org/abs/2206.04615)] ![](https://img.shields.io/badge/Benchmark-Mix-red) ![](https://img.shields.io/badge/Prompt-Handcraft-orange)
 
-How Can We Know What Language Models Know?. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.28)]
+How Can We Know What Language Models Know?. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.28)] ![](https://img.shields.io/badge/Prompt-Discrete-orange)
 
-Commonsense Knowledge Mining from Pretrained Models. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1109)]
+Commonsense Knowledge Mining from Pretrained Models. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1109)] ![](https://img.shields.io/badge/Prompt-Discrete-orange)
 
-BERTese: Learning to Speak to BERT. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.316)]
+BERTese: Learning to Speak to BERT. (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.316)] ![](https://img.shields.io/badge/Prompt-Discrete-orange)
 
-AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.346)]
+AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.346)] ![](https://img.shields.io/badge/Prompt-Discrete-orange)
 
-Factual Probing Is [MASK]: Learning vs. Learning to Recall. (Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2021) [[paper](https://aclanthology.org/2021.naacl-main.398)]
+Factual Probing Is [MASK]: Learning vs. Learning to Recall. (Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2021) [[paper](https://aclanthology.org/2021.naacl-main.398)] ![](https://img.shields.io/badge/Prompt-Continual-orange)
 
-Prefix-Tuning: Optimizing Continuous Prompts for Generation. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.353)]
+Prefix-Tuning: Optimizing Continuous Prompts for Generation. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.353)] ![](https://img.shields.io/badge/Prompt-Continual-orange)
 
-GPT Understands, Too. (2021) [[paper](https://arxiv.org/abs/2103.10385)]
+GPT Understands, Too. (2021) [[paper](https://arxiv.org/abs/2103.10385)] ![](https://img.shields.io/badge/Prompt-Continual-orange)
 
-Measuring and Improving Consistency in Pretrained Language Models. (TACL 2021) [[paper](https://aclanthology.org/2021.tacl-1.60)]
+Measuring and Improving Consistency in Pretrained Language Models. (TACL 2021) [[paper](https://aclanthology.org/2021.tacl-1.60)] ![](https://img.shields.io/badge/Limitation-Inconsistency-red)
 
-Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.398)]
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.398)] ![](https://img.shields.io/badge/Limitation-Inconsistency-red)
 
-Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.698)]
+Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.698)] ![](https://img.shields.io/badge/Limitation-Inconsistency-red)
 
-Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts. (2022) [[paper](https://arxiv.org/abs/2209.12711)]
+Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts. (2022) [[paper](https://arxiv.org/abs/2209.12711)] ![](https://img.shields.io/badge/Limitation-Inconsistency-red)
 
-Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.698)]
+Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.698)] ![](https://img.shields.io/badge/Limitation-Inconsistency-red)
 
-Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts. (2022) [[paper](https://arxiv.org/abs/2209.12711)]
+E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT. (Findings of ACL 2020) [[paper](https://aclanthology.org/2020.findings-emnlp.71)] ![](https://img.shields.io/badge/Limitation-Inaccurate-red)
 
-E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT. (Findings of ACL 2020) [[paper](https://aclanthology.org/2020.findings-emnlp.71)]
+Factual Probing Is [MASK]: Learning vs. Learning to Recall. (Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2021) [[paper](https://aclanthology.org/2021.naacl-main.398)] ![](https://img.shields.io/badge/Limitation-Inaccurate-red)
 
-Factual Probing Is [MASK]: Learning vs. Learning to Recall. (Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2021) [[paper](https://aclanthology.org/2021.naacl-main.398)]
+Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.146)] ![](https://img.shields.io/badge/Limitation-Unreliable-red)
 
-Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.146)]
+How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis. (Findings of ACL 2022) [[paper](https://aclanthology.org/2022.findings-acl.136)] ![](https://img.shields.io/badge/Limitation-Unreliable-red)
 
-How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis. (Findings of ACL 2022) [[paper](https://aclanthology.org/2022.findings-acl.136)]
+Measuring Causal Effects of Data Statistics on Language Models' Factual Predictions. (2022) [[paper](https://arxiv.org/abs/2207.14251)] ![](https://img.shields.io/badge/Limitation-Bias-red)
 
-Measuring Causal Effects of Data Statistics on Language Model'sFactual'Predictions. (2022) [[paper](https://arxiv.org/abs/2207.14251)]
+Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.144)] ![](https://img.shields.io/badge/Limitation-Bias-red)
 
-Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models. (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.144)]
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View. (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.398)] ![](https://img.shields.io/badge/Limitation-Bias-red)
 
 ### 3.2 Feature-based Probing
 
-Probing Classifiers: Promises, Shortcomings, and Advances. (Computational Linguistics 2022) [[paper](https://aclanthology.org/2022.cl-1.7)]
+Probing Classifiers: Promises, Shortcomings, and Advances. (Computational Linguistics 2022) [[paper](https://aclanthology.org/2022.cl-1.7)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-What's in an Embedding? Analyzing Word Embeddings through Multilingual Evaluation. (EMNLP 2015) [[paper](https://aclanthology.org/D15-1246)]
+What's in an Embedding? Analyzing Word Embeddings through Multilingual Evaluation. (EMNLP 2015) [[paper](https://aclanthology.org/D15-1246)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Distributional vectors encode referential attributes. (EMNLP 2015) [[paper](https://aclanthology.org/D15-1002)]
+Distributional vectors encode referential attributes. (EMNLP 2015) [[paper](https://aclanthology.org/D15-1002)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)]
+Open Sesame: Getting inside BERT's Linguistic Knowledge. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4825)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
 What do you learn from context? Probing for sentence structure in
-contextualized word representations. (ICLR 2019) [[paper](https://openreview.net/forum?id=SJzSgnRcKX)]
+contextualized word representations. (ICLR 2019) [[paper](https://openreview.net/forum?id=SJzSgnRcKX)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)]
+What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Linguistic Knowledge and Transferability of Contextual Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1112)]
+Linguistic Knowledge and Transferability of Contextual Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1112)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-A Structural Probe for Finding Syntax in Word Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1419)]
+A Structural Probe for Finding Syntax in Word Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1419)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Do NLP Models Know Numbers? Probing Numeracy in Embeddings. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1534)]
+Do NLP Models Know Numbers? Probing Numeracy in Embeddings. (EMNLP 2019) [[paper](https://aclanthology.org/D19-1534)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings. (ACL 2019) [[paper](https://aclanthology.org/P19-1574)]
+Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings. (ACL 2019) [[paper](https://aclanthology.org/P19-1574)] ![](https://img.shields.io/badge/Feature-Classifier_Base-blue)
 
-Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.383)]
+Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT. (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.383)] ![](https://img.shields.io/badge/Feature-Classifier_free-green)
 
-DirectProbe: Studying Representations without Classifiers. (NAACL 2021) [[paper](https://aclanthology.org/2021.naacl-main.401)]
+DirectProbe: Studying Representations without Classifiers. (NAACL 2021) [[paper](https://aclanthology.org/2021.naacl-main.401)] ![](https://img.shields.io/badge/Feature-Classifier_free-green)
 
-What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)]
+What Does BERT Look at? An Analysis of BERT's Attention. (ACL Workshop BlackboxNLP 2019) [[paper](https://aclanthology.org/W19-4828)] ![](https://img.shields.io/badge/Feature-Classifier_free-green)
 
-A Primer in BERTology: What We Know About How BERT Works. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.54)]
+A Primer in BERTology: What We Know About How BERT Works. (TACL 2020) [[paper](https://aclanthology.org/2020.tacl-1.54)] ![](https://img.shields.io/badge/Feature-Limitation-red)
 
-A Structural Probe for Finding Syntax in Word Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1419)]
+A Structural Probe for Finding Syntax in Word Representations. (NAACL 2019) [[paper](https://aclanthology.org/N19-1419)] ![](https://img.shields.io/badge/Feature-Limitation-red)
 
 ## 4. Knowledge Editing
 
