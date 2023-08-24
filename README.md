@@ -2,6 +2,8 @@
 This is the paper list of survey paper "The Life Cycle of Knowledge in Big Language Models: A Survey".
 We will update the survey content and this paper list regularly, and we very much welcome suggestions of any kind.
 
+**We present a tutorial on [CCKS 2023](https://sigkg.cn/ccks2023/), here is the [latest slides of our tutorial](https://github.com/c-box/KnowledgeLifecycle/blob/main/slides/Release_Knowledge_Lifecycle_Tutorial.pdf).**
+
 ![image](https://github.com/c-box/KnowledgeLifecycle/blob/main/Figures/lifecircle.png) 
 
 - [KnowledgeLifecycle](#knowledgelifecycle)
@@ -422,6 +424,11 @@ Transformers learn in-context by gradient descent. (2022) [[paper](https://arxiv
 ## Reference
 If this repository helps you, please kindly cite the following bibtext:
 ```
-To be updated
+@article{cao2023life,
+  title={The Life Cycle of Knowledge in Big Language Models: A Survey},
+  author={Cao, Boxi and Lin, Hongyu and Han, Xianpei and Sun, Le},
+  journal={arXiv preprint arXiv:2303.07616},
+  year={2023}
+}
 ```
 
